@@ -1,0 +1,49 @@
+     /* font-family: "RalewaySemiBold"; */
+      @font-face {
+      font-display: swap;
+      font-family: "RalewaySemiBold";
+      src: url("./../fonts/RalewaySemiBold/RalewaySemiBold.eot");
+      src: url("./../fonts/RalewaySemiBold/RalewaySemiBold.eot?#iefix")format("embedded-opentype"),
+      url("./../fonts/RalewaySemiBold/RalewaySemiBold.woff") format("woff"),
+      url("./../fonts/RalewaySemiBold/RalewaySemiBold.ttf") format("truetype");
+      font-style: normal;
+      font-weight: normal;
+  }
+
+       /* font-family: "HelveticaNeueCyr-Bold"; */
+        @font-face {
+        font-display: swap;
+        font-family: "HelveticaNeueCyr-Bold";
+        src: url("./../fonts/HelveticaNeueCyr-Bold.eot");
+        src: url("./../fonts/HelveticaNeueCyr-Bold.eot?#iefix")format("embedded-opentype"),
+        url("./../fonts/HelveticaNeueCyr-Bold.woff") format("woff"),
+        url("./../fonts/HelveticaNeueCyr-Bold.ttf") format("truetype");
+        font-style: normal;
+        font-weight: normal;
+    }
+
+    /* font-family: "proxima_nova_rgregular"; */
+    @font-face {
+      font-display: swap;
+      font-family: 'proxima_nova_rgregular';
+      src: url('./../fonts/proximanova/proximanova-reg-webfont.eot');
+      src: url('../fonts/proximanova/proximanova-reg-webfont.eot?#iefix') format('embedded-opentype'),
+      url('./../fonts/proximanova/proximanova-reg-webfont.woff2') format('woff2'),
+      url('./../fonts/proximanova/proximanova-reg-webfont.woff') format('woff'),
+      url('./../fonts/proximanova/proximanova-reg-webfont.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
+
+/* font-family: "VerdanaRegular"; */
+  @font-face {
+    font-family: "VerdanaRegular";
+    src: url("../fonts/Verdana.eot");
+    src: local("Verdana"),
+      url("../fonts/Verdana.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/Verdana.woff2") format("woff2"),
+      url("../fonts/Verdana.woff") format("woff"),
+      url("../fonts/Verdana.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
